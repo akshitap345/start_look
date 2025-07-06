@@ -6,4 +6,6 @@ Features:
 - Payback Period
 - Break-even Volume
 - Payback timeline visualization
+
+  
 This project helps visualize and understand the basic financial health of a startup by calculating common unit economics metrics based on user inputs.
